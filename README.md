@@ -3,7 +3,8 @@
 # Overview
 Cross-regional bird vocalization recognition (BVR) poses significant challenges due to spectral overlap, class imbalance, and domain shifts caused by ecological and acoustic variability. This paper proposes HARL-MOS, a multi-task deep learning framework that integrates class-balanced over-sampling and style randomization into a dual-branch ResNet50 architecture to improve generalization across diverse regions. HARL-MOS extends a prior auditory representation model by introducing a vocalization type auxiliary classification task to promote style-invariant representations, while over-sampling addresses the long-tail distribution of rare species. A style randomization module perturbs acoustic feature statistics during training to enhance robustness to domain-specific variations. HARL-MOS was evaluated on the DB3V dataset spanning three ecologically distinct regions in the contiguous United States under six cross-region train–test protocols, and on a separate two-site soundscape dataset with overlapping species. Experimental results demonstrated consistent improvements over a standard baseline and the prior HARL framework; in the most challenging D2D1 setting, HARL-MOS improved the macro F1-score by 4.33 percentage points over HARL and by 27.80 points over the baseline. In fine-grained cross-site BVR, HARL-MOS maintained stable improved performance with ACC reaching up to 90.36% and 91.71% for S1S2 and S2S1, indicating reduced sensitivity to domain shift. These results demonstrate that HARL-MOS is a reliable framework for automated BVR, offering practical benefits for biodiversity monitoring and conservation efforts.
 
-![HARL_MOS Blockdiagram](https://github.com/xingfengli/HARL_MOS2025/blob/main/HARL_MOS_models/blockdiagram.png)
+![HARL_MOS Blockdiagram](https://github.com/xingfengli/HARL_MOS2025/blob/main/HARL_MOS_models/HARL vs HARL-MOS.png)
+
 
 # Datasets
 The DB3V ans S1-S2 datasets were used for all the experiments in this work. 
