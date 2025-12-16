@@ -9,3 +9,4 @@
 
 - Note: Zipped extracted features could also be found from: [Zipped Features (OneDrive)](https://1drv.ms/f/c/f1ce98298ad945ca/EspF2YopmM4ggPHrcAUAAAAB7gAUF3LLA8F9aL1zETtmFQ?e=r1FLv7).
 
+![DualFeatures](https://github.com/xingfengli/HARL_MOS2025/blob/main/HARL_MOS_features/turdus.png)
