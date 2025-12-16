@@ -83,22 +83,17 @@ To set up and visualize Mel and Gamma spectrograms, follow these steps:
    - Update folder paths in all scripts to match your local setup.
 
 2. **Train DB3V models, ablation studies**:
-   - Run `HARL-MOS-D2D1.py` for training with D2 and testing with D1, *HARL-MOS framework*.
-   - Run `HARL-OS-D2D1.py`  for training with D2 and testing with D1, *HARL-OS framework*.
-   - Run `HARL-MS-D2D1.py`  for training with D2 and testing with D1, *HARL-MS framework*.
-   - Run `HARL-MO-D2D1.py`  for training with D2 and testing with D1, *HARL-MO framework*.
+   - Run `HARL-MOS-D2D1.py` for training with D2 and testing with D1, HARL-MOS framework.
+   - Run `HARL-OS-D2D1.py`  for training with D2 and testing with D1, HARL-OS framework.
+   - Run `HARL-MS-D2D1.py`  for training with D2 and testing with D1, HARL-MS framework.
+   - Run `HARL-MO-D2D1.py`  for training with D2 and testing with D1, HARL-MO framework.
 
 3. **Train S1 and S2 Subsets model, ablation studies**:
-   - Run `HARL-MOS-S1S2.py` for training with S1 and testing with S2, *HARL-MOS framework*.
-   - Run `HARL-OS-S1S2.py`  for training with S1 and testing with S2, *HARL-OS framework*.
-
-
-4. **Train combined Mel and Gammatone models**:
-   - Run `D1D2_mel_plus_gamma_wo_atten.py` for combined training with D1 and testing with D2, without attention.
-   - Run `D1D2_mel_plus_gamma_wi_atten.py` for combined training with D1 and testing with D2, with attention.
+   - Run `HARL-MOS-S1S2.py` for training with S1 and testing with S2, HARL-MOS framework.
+   - Run `HARL-OS-S1S2.py`  for training with S1 and testing with S2, HARL-OS framework.
 
 5. **Visualize results**:
-   - Run `ROC.py` and `UMAPs.py` to generate ROC curves and UMAP visualizations.
+   - Please go and check Folder: HARL_MOS_visualizations/.
 
 **Resources**:
 
