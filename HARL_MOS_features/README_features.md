@@ -1,5 +1,5 @@
 # Instructions to run codes in features (Matlab 2024b)
-```markdown
+
 ## Setup and Visualization Instructions
 
 - Run `addpath('your_own_specified_path/features/gammatonegram')` to set up required files.  
@@ -8,3 +8,6 @@
 - **Reminder**: Do NOT forget to revise the folder paths to suit your devices.
 
 - Note: Zipped extracted features could also be found from: [Zipped Features (OneDrive)](https://1drv.ms/f/c/f1ce98298ad945ca/EspF2YopmM4ggPHrcAUAAAAB7gAUF3LLA8F9aL1zETtmFQ?e=r1FLv7).
+
+
+![DualFeatures](https://github.com/xingfengli/HARL_MOS2025/blob/main/HARL_MOS_features/turdus.png)
