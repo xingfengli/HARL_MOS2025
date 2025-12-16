@@ -7,4 +7,5 @@
 - Run `listFilesAndFolders.m` to extract, get, and store the Mel- and Gamma-Spectrograms.  
 - **Reminder**: Do NOT forget to revise the folder paths to suit your devices.
 
-- Note: Zipped extracted features could also be found as follows: https://1drv.ms/f/c/f1ce98298ad945ca/EspF2YopmM4ggPHrcAUAAAAB7gAUF3LLA8F9aL1zETtmFQ?e=r1FLv7
+- Note: Zipped extracted features could also be found as follows: 
+[Zipped Features (OneDrive)](https://1drv.ms/f/c/f1ce98298ad945ca/EspF2YopmM4ggPHrcAUAAAAB7gAUF3LLA8F9aL1zETtmFQ?e=r1FLv7).
